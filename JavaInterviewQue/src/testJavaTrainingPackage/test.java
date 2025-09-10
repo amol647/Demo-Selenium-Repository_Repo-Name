@@ -4,7 +4,7 @@ package testJavaTrainingPackage;
 public class test {
 
 	public static void main(String[] args) {
-		String str = "amol java automation";
+		String str = "amol java automatio";
 		String newstr ="";
 		int count = 1;
 		
@@ -88,4 +88,5 @@ public class test {
         System.out.println(res);
    }
 }
+
 
