@@ -4,7 +4,7 @@ public class ReverseANumber {
 
 	public static void main(String[] args) {
 		
-		int num = 123;
+		int num = 56897;
 		
 		
 		
@@ -13,3 +13,4 @@ public class ReverseANumber {
 	}
 	
 }
+
